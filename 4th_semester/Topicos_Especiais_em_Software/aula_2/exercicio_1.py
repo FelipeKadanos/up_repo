@@ -2,7 +2,7 @@ nome = input("Digite seu nome: ")
 idade = input("Digite sua idade: ")
 ing = input("Digite seu tipo de ingresso (VIP/COMUM): ")
 
-if idade <= 16:
+if idade < 16:
     print("Entrada negada. A entrada é permitida apenas para maiores de 16 anos")
     exit()
     
