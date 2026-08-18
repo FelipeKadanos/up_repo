@@ -1,0 +1,15 @@
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.csproj.AssemblyReference.cache
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.AssemblyInfoInputs.cache
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.AssemblyInfo.cs
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\bin\Debug\net7.0\exercicio_6.exe
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\bin\Debug\net7.0\exercicio_6.deps.json
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\bin\Debug\net7.0\exercicio_6.runtimeconfig.json
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\bin\Debug\net7.0\exercicio_6.dll
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\bin\Debug\net7.0\exercicio_6.pdb
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.dll
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\refint\exercicio_6.dll
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.pdb
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\exercicio_6.genruntimeconfig.cache
+C:\Users\FELIPEEDUARDOKADANOS\Documents\up_repo\4th_semester\Desenvolvimento_de_Software_Visual\lista_exercicio\exercicio_6\obj\Debug\net7.0\ref\exercicio_6.dll
