@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6\\exercicio_6.csproj",
-      "projectName": "exercicio_6",
-      "projectPath": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6\\exercicio_6.csproj",
+      "projectUniqueName": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
+      "projectName": "exercicio_6_b",
+      "projectPath": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
       "packagesPath": "C:\\Users\\FELIPEEDUARDOKADANOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6\\obj\\",
+      "outputPath": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
