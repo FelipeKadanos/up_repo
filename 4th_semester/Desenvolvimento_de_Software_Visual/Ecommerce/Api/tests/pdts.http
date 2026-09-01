@@ -1,0 +1,7 @@
+# Instalar extensão
+
+### Raiz do projeto
+GET https://localhost:5046/ HTTP/1.1
+
+### API
+GET https://localhost:5046/api/produto HTTP/1.1
