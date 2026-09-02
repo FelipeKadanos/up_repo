@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "7YI7lRknR0OFcuUB4+mChXf1nYtJnOk/cNHAGzWh0AI7YC4ky6m0lBmaywO2uAuNgDgxkP1HjrZ9/qqJRhlCGw==",
+  "dgSpecHash": "EAuy5aEtqEY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\FELIPEEDUARDOKADANOS\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\lista_exercicio\\exercicio_6_b\\exercicio_6_b.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
