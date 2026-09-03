@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Documents\\Productivity\\UP\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj": {}
+    "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Documents\\Productivity\\UP\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj": {
+    "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Productivity\\UP\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Felipe\\Documents\\Productivity\\UP\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Documents\\Productivity\\UP\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\obj\\",
+        "projectPath": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thoma\\Documents\\up_repo\\4th_semester\\Desenvolvimento_de_Software_Visual\\Ecommerce\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -38,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -54,6 +56,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.16, 9.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

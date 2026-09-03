@@ -56,4 +56,22 @@ try:
 except FileNotFoundError:
     print("Arquivo não encontrado.")
 
-
+# BaseException
+# │
+# ├── SystemExit
+# ├── KeyboardInterrupt
+# ├── GeneratorExit
+# │
+# └── Exception
+#     │
+#     ├── ArithmeticError
+#     │   ├── ZeroDivisionError
+#     │   ├── OverflowError
+#     │   └── FloatingPointError
+#     │
+#     ├── LookupError
+#     │   ├── IndexError
+#     │   └── KeyError
+#     │
+#     └── OSError
+#         └── FileNotFoundError
