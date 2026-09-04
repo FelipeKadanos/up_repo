@@ -1,0 +1,2 @@
+Teste;1;Teste;PROFISSIONAL;1.0
+Teste2;2;Teste2;ESTUDANTE;2.0
