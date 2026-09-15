@@ -1,4 +1,14 @@
-Console.Clear();
+try
+{
+    if (!Console.IsOutputRedirected)
+    {
+        Console.Clear();
+    }
+}
+catch (IOException)
+{
+    // Some hosts do not expose a clearable console.
+}
 Console.WriteLine("Felipe Kadanos - 2026 - Address Api");
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,12 +28,21 @@ List<Produto> produtos = new() {
 };
 
 app.MapGet("/", () => "Bem-vindo à API de Endereços!");
-app.MapGet("/api/produto", () => {
+
+app.MapGet("/api/produto/listar", () => {
     return produtos;
 });
 
-Produto produto = new Produto();
-produto.Nome = "Teclado";
-Console.WriteLine($"Produto: {produto.Nome}");
+app.MapPost("/api/produto/cadastrar", (Produto produto) => {
+    produtos.Add(produto);
+    // return Results.Created($"/api/produto/{produto.Id}", produto);
+    return Results.Created("", produto);
+});
+
+/* Exercicio:
+ * 1- Pesquisar produto por nome
+ * 2- Remover um produto
+ * 3- Alterar um produto
+ */
 
 app.Run();

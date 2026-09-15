@@ -1,7 +1,15 @@
 # Instalar extensão
 
 ### Raiz do projeto
-GET https://localhost:5046/ HTTP/1.1
+GET http://localhost:5046/ HTTP/1.1
 
-### API
-GET https://localhost:5046/api/produto HTTP/1.1
+### listar produtos
+GET http://localhost:5046/api/produto/listar HTTP/1.1
+
+### cadastrar produtos
+POST http://localhost:5046/api/produto/cadastrar HTTP/1.1
+Content-Type: application/json
+
+{
+    "nome": "Teclado"
+}
