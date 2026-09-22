@@ -1,0 +1,11 @@
+Vendedor,Regiao,Produto,Categoria,Quantidade,Valor
+Ana,Sul,Notebook,Informática,2,7000
+Carlos,Norte,Mouse,Informática,10,800
+Pedro,Sul,Monitor,Informática,3,3600
+Maria,Norte,Cadeira,Móveis,4,3400
+Ana,Sul,Teclado,Informática,5,750
+Carlos,Norte,Mesa,Móveis,2,2400
+Pedro,Sul,Webcam,Informática,6,1500
+Maria,Norte,Notebook,Informática,1,3500
+Ana,Sul,Cadeira,Móveis,2,1700
+Carlos,Norte,Monitor,Informática,2,2400
