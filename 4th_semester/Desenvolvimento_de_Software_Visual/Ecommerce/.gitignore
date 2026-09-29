@@ -1,0 +1,16 @@
+## Pastas de compilação do C# (Ignora bin/ e obj/ dentro de Api/)
+**/[Bb]in/
+**/[Oo]bj/
+
+## Pasta temporária da raiz
+.tmp/
+
+## Arquivos e pastas do VS Code / Visual Studio / Rider
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## Arquivos de configuração sensíveis do ambiente de desenvolvimento
+**/appsettings.Development.json
