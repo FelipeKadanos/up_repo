@@ -7,6 +7,10 @@ Console.WriteLine("Felipe Kadanos - 2026 - Address Api");
 // dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.31
 // dotnet add package Microsoft.EntityFrameworkCore.Design --version 7.0.0
 
+// dotnet tool install --dotnet-ef
+// dotnet ef migrations add initial...
+// dotnet ef datavase update
+
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
