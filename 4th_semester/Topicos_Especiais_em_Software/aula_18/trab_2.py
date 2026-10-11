@@ -31,8 +31,7 @@ def preparar_dados():
     print(dados.isnull().sum())
     print("Smoking status desconhecido:", (dados["smoking_status"] == "Unknown").sum())
 
-    # Alguns pacientes nao possuem BMI. Em vez de remover esses pacientes,
-    # calculamos a mediana dos valores existentes e usamos esse valor nos vazios.
+    # Alguns pacientes nao possuem BMI. Em vez de remover esses pacientes, calculamos a mediana e usamos esse valor nos vazios.
     # A mediana foi escolhida por que sofre menos influencia de valores muito altos ou muito baixos.
     mediana_bmi = dados["bmi"].median()
     dados["bmi"] = dados["bmi"].fillna(mediana_bmi)
