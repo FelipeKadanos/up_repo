@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado</title>
+</head>
+<body>
+    <h1>Resultado da pesquisa</h1>
+    <!-- Mostra a tag pesquisada -->
+    <p>
+        Categoria pesquisada:
+        <strong>{{ tag }}</strong>
+    </p>
+    <!--
+        Mostra a quantidade de citações
+        encontradas.
+    -->
+    <p>
+        Quantidade encontrada:
+        <strong>{{ citacoes|length }}</strong>
+    </p>
+    <hr>
+    <!--
+        Percorre a lista enviada pelo Flask.
+    -->
+    {% for citacao in citacoes %}
+    <h3>{{ citacao.autor }}</h3>
+    <p>{{ citacao.texto }}</p>
+    <hr>
+    {% endfor %}
+    <a href="/">Nova pesquisa</a>
+</body>
+</html>

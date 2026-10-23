@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Buscador de Citações</title>
+</head>
+<body>
+    <h1>Buscador de Citações</h1>
+    <p>Escolha uma categoria de citações:</p>
+    <!--
+        O formulário envia a opção escolhida
+        para a rota /pesquisar.
+    -->
+    <form action="/pesquisar" method="POST">
+        <label for="tag">
+            Categoria:
+        </label>
+        <select name="tag" id="tag">
+            <option value="love">Amor</option>
+            <option value="life">Vida</option>
+            <option value="inspirational">Inspiracional</option>
+            <option value="humor">Humor</option>
+            <option value="books">Livros</option>
+        </select>
+        <button type="submit">Pesquisar</button>
+    </form>
+</body>
+</html>
